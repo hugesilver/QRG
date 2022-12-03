@@ -1,0 +1,13 @@
+C:\Users\xor3160\Desktop\C#윈도우프로그래밍\QRG\QRG\QRG\bin\Debug\QRG.exe.config
+C:\Users\xor3160\Desktop\C#윈도우프로그래밍\QRG\QRG\QRG\bin\Debug\QRG.exe
+C:\Users\xor3160\Desktop\C#윈도우프로그래밍\QRG\QRG\QRG\bin\Debug\QRG.pdb
+C:\Users\xor3160\Desktop\C#윈도우프로그래밍\QRG\QRG\QRG\bin\Debug\QRCoder.dll
+C:\Users\xor3160\Desktop\C#윈도우프로그래밍\QRG\QRG\QRG\obj\Debug\QRG.csproj.AssemblyReference.cache
+C:\Users\xor3160\Desktop\C#윈도우프로그래밍\QRG\QRG\QRG\obj\Debug\QRG.csproj.SuggestedBindingRedirects.cache
+C:\Users\xor3160\Desktop\C#윈도우프로그래밍\QRG\QRG\QRG\obj\Debug\QRG.main.resources
+C:\Users\xor3160\Desktop\C#윈도우프로그래밍\QRG\QRG\QRG\obj\Debug\QRG.Properties.Resources.resources
+C:\Users\xor3160\Desktop\C#윈도우프로그래밍\QRG\QRG\QRG\obj\Debug\QRG.csproj.GenerateResource.cache
+C:\Users\xor3160\Desktop\C#윈도우프로그래밍\QRG\QRG\QRG\obj\Debug\QRG.csproj.CoreCompileInputs.cache
+C:\Users\xor3160\Desktop\C#윈도우프로그래밍\QRG\QRG\QRG\obj\Debug\QRG.csproj.CopyComplete
+C:\Users\xor3160\Desktop\C#윈도우프로그래밍\QRG\QRG\QRG\obj\Debug\QRG.exe
+C:\Users\xor3160\Desktop\C#윈도우프로그래밍\QRG\QRG\QRG\obj\Debug\QRG.pdb
